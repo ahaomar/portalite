@@ -33,7 +33,7 @@ Usually that means hiring developers and setting up complicated servers.
 > **Think of it like this:** your spreadsheet goes in, a data website comes out. You don't need to install databases, configure servers, or write any code.
 
 ---
-## ▶️ Demo Video ▶️▶️▶️
+## ▶️ Demo Video ▶️▶
 
 [![Demo](https://github.com/ahaomar/portalite/blob/main/demo.gif)](#Demo)
 ---
