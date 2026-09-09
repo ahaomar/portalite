@@ -36,7 +36,6 @@ Usually that means hiring developers and setting up complicated servers.
 ## ▶️ Demo Video
 
 ![Animated Demo](demo.gif)
-![Animated Demo](https://github.com/ahaomar/portalite/blob/main/demo.gif)
 ---
 
 ## 🚀 Installation
