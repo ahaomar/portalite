@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.duckdb
+*.wal
+test/.tmp/
+.DS_Store
+.pytest_cache/
+
+# user-uploaded data never belongs in the repo
+sample-data/uploads/
+config/
+*.xls
+*.xlsx
+# keep repo sample data only; anything else dropped into sample-data stays local
+sample-data/*
+!sample-data/displacement_2023.csv
+!sample-data/air_quality_2024.json

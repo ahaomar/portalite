@@ -1,0 +1,14 @@
+[
+  {"station": "Vienna Downtown", "country": "Austria", "pm25_ugm3": 14.2, "no2_ugm3": 28.1, "year": 2024},
+  {"station": "Beijing Chaoyang", "country": "China", "pm25_ugm3": 38.5, "no2_ugm3": 41.7, "year": 2024},
+  {"station": "Delhi Anand Vihar", "country": "India", "pm25_ugm3": 92.4, "no2_ugm3": 55.2, "year": 2024},
+  {"station": "London Marylebone", "country": "United Kingdom", "pm25_ugm3": 11.8, "no2_ugm3": 33.9, "year": 2024},
+  {"station": "Cairo Ramses", "country": "Egypt", "pm25_ugm3": 67.3, "no2_ugm3": 48.6, "year": 2024},
+  {"station": "Sao Paulo Cerqueira", "country": "Brazil", "pm25_ugm3": 16.9, "no2_ugm3": 25.4, "year": 2024},
+  {"station": "Tokyo Shinjuku", "country": "Japan", "pm25_ugm3": 9.7, "no2_ugm3": 22.8, "year": 2024},
+  {"station": "Nairobi Museum", "country": "Kenya", "pm25_ugm3": 17.5, "no2_ugm3": 19.3, "year": 2024},
+  {"station": "Moscow Tverskaya", "country": "Russia", "pm25_ugm3": 12.6, "no2_ugm3": 31.5, "year": 2024},
+  {"station": "Mexico City Xalostoc", "country": "Mexico", "pm25_ugm3": 21.8, "no2_ugm3": 36.2, "year": 2024},
+  {"station": "Jakarta Kelapa Gading", "country": "Indonesia", "pm25_ugm3": 44.1, "no2_ugm3": 39.8, "year": 2024},
+  {"station": "Berlin Mitte", "country": "Germany", "pm25_ugm3": 10.4, "no2_ugm3": 24.6, "year": 2024}
+]
