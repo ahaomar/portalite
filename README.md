@@ -4,6 +4,8 @@
 
 **Turn any data file into a live, searchable data portal. In minutes. No coding. No servers to set up.**
 
+### For Researchers 🧐🔬Young,  Professionals 😁💼, Interns 👋🌱, Junior Developers: 🧑‍💻🌱
+
 Drop in a spreadsheet — get a website with search, charts, maps, and an API.
 
 [![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](#-installation)
